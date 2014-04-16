@@ -5,6 +5,14 @@
  * Last edited: 4/19/2013 by Nate Hardison <nate@edx.org>
  */
 
+header.global {
+  background: rgba(255,255,255,0.75) !important;
+}
+
+.view-register .introduction header .title, .view-login .introduction header .title, .view-passwordreset .introduction header .title {
+  top: 0px !important;
+}
+
 #su-header .su-container,
 #su-footer .su-container {
   margin: 0 auto;
