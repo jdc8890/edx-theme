@@ -13,6 +13,10 @@ header.global {
   top: 0px !important;
 }
 
+.wrapper-footer {
+  background: #ffffff !important;
+}
+
 #su-header .su-container,
 #su-footer .su-container {
   margin: 0 auto;
