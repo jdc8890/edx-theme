@@ -237,11 +237,11 @@ Media queries
   }
 
   #su-footer .span2 {
-    width:140px;
+    width:277px; /* original 140px */
   }
 
   #su-footer .span10 {
-    width:780px;
+    width:643px; /* original 780px */
   }
 }
 
@@ -254,11 +254,11 @@ Media queries
   }
 
   #su-footer .span2 {
-    width:170px;
+    width:307px; /* original 170px */
   }
 
   #su-footer .span10 {
-    width:970px;
+    width:833px; /* original 970px */
   }
 
   p.copyright {
