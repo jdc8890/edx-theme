@@ -181,12 +181,12 @@ Media queries
   /* Footer single column */
   #su-footer .span2 {
     float:left;
-    width:104px;
+    width:242px; /* original 104px */
     padding-left:8px; /* Prevent flush left */
   }
   /* Bootstrap style */
   #su-footer .span10 {
-    width:600px;
+    width:462px; /* original 600px */
     margin-left:20px;
     margin:0 12px 0 20px;
     float:left;
