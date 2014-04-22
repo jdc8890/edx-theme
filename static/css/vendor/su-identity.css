@@ -316,6 +316,6 @@ http://www.cssstickyfooter.com
 .content-wrapper {
   min-height: calc(100% - 295px);
 }
-.body {
+body {
   height: 100%;
 }
